@@ -2,7 +2,7 @@
 	"name": "copy-current-line-number",
 	"displayName": "copy-current-line-number",
 	"description": "copy current line number to clipboard",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "nzin4x",
 	"engines": {
 		"vscode": "^1.30.0"
@@ -49,7 +49,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/nzin4x/copy-current-line-number.git"
-	  },
+	},
 	"icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#C80000",
