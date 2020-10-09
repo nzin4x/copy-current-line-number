@@ -8,7 +8,6 @@ just copy current line number to clipboard. if you run "copy current linenumber 
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[how to run\]\(images/howto.png\)
 ![how to run](images/howto.png)
 
 
@@ -22,8 +21,7 @@ none
 
 ## Known Issues
 
-none
-you must open editor
+* you must open editor
 
 ## Release Notes
 
