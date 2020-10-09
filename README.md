@@ -27,6 +27,10 @@ none
 
 initial version
 
+### 0.0.3
+
+help image added to readme
+
 ### 0.0.2
 
 just added icon
