@@ -3,8 +3,9 @@
 	"displayName": "copy-current-line-number",
 	"description": "copy current line number to clipboard",
 	"version": "0.0.1",
+	"publisher": "nzin4x",
 	"engines": {
-		"vscode": "^1.50.0"
+		"vscode": "^1.30.0"
 	},
 	"categories": [
 		"Other"
