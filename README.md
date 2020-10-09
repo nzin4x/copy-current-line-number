@@ -8,7 +8,9 @@ just copy current line number to clipboard. if you run "copy current linenumber 
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/howto.png\)
+\!\[how to run\]\(images/howto.png\)
+![how to run](images/howto.png)
+
 
 ## Requirements
 
@@ -27,7 +29,11 @@ you must open editor
 
 initial version
 
-### 0.1.1
+### 0.0.2
+
+just added icon
+
+### 0.0.1
 
 Initial release of "copy current line number to clipboard"
 
